@@ -1,0 +1,41 @@
+# Day 2 - Data Structures
+
+## 📌 Objective
+Learn the basics of Python data structures and how to store and manipulate data efficiently.
+
+---
+
+### 1. Lists
+- Ordered and mutable collection
+- Indexing and slicing
+- Adding and removing elements
+
+### 2. Tuples
+- Ordered but immutable
+- Used for fixed data
+
+### 3. Sets
+- Unordered collection
+- Stores unique values only
+
+### 4. Dictionaries
+- Key-value pairs
+- Used to store structured data
+
+---
+
+##  What I Practiced
+- Created and modified lists
+- Used tuples for fixed values
+- Removed duplicates using sets
+- Stored and accessed data using dictionaries
+
+---
+
+
+##  What I Learned
+- Difference between data structures
+- When to use each type
+- Basic operations on each structure
+
+---
