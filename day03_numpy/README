@@ -1,0 +1,21 @@
+# Day 3 - NumPy Basics
+
+##  Objective
+Learn the fundamentals of NumPy and how it is used for numerical computations in Python.
+
+---
+
+##  What I Practiced
+
+- Created 1D NumPy arrays
+- Performed basic operations on arrays
+- Created 2D NumPy arrays`
+ 
+
+---
+
+## 📈 What I Learned
+
+- NumPy is faster and more efficient than Python lists for numerical data  
+- Arrays are relative objects.  
+- Useful for data science and machine learning  
