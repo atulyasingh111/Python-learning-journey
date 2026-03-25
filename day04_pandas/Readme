@@ -1,0 +1,32 @@
+# Day 4 - Pandas Basics
+
+##  Objective
+Learn the basics of Pandas and how it is used for data manipulation and analysis in Python.
+
+---
+
+## Topics Covered
+
+- Introduction to Pandas
+- Series and DataFrames
+- Viewing and exploring data
+- Basic operations on data
+
+---
+
+##  What I Practiced
+
+- Created Pandas Series and DataFrames
+- Loaded datasets using `pd.read_csv()`
+- Used functions like:`.head()`
+- Selected and filtered data
+
+---
+
+##  What I Learned
+
+- Pandas makes working with data easier and faster  
+- DataFrames are powerful for handling structured data  
+- Useful for data cleaning and analysis  
+
+---
